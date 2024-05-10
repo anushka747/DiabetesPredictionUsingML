@@ -1,2 +1,2 @@
 # DiabetesPredictionUsingML
-Predicts if a person has diabetes using Support Vector Machine Model.
+Data Set Link - https://www.kaggle.com/datasets/akshaydattatraykhare/diabetes-dataset
